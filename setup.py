@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'IsWindows',
   packages = ['IsWindows'],
-  version = '0.1',     
+  version = '0.2',     
   license='MIT',   
   description = 'Provides IsWindows function returning true if windows os, false otherwise',
   author = 'Matthew Kirkley',
   author_email = 'matt.kirkley@gmail.com',
   url = 'https://github.com/ventralnet/IsWindows',
-  download_url = 'https://github.com/ventralnet/IsWindows/archive/refs/tags/v_01.tar.gz',
+  download_url = 'https://github.com/ventralnet/IsWindows/archive/refs/tags/v_02.tar.gz',
   keywords = ['OS', 'WINDOWS', 'IS WINDOWS', 'OS detection'],
   install_requires=[],
   classifiers=[
