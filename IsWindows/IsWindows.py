@@ -1,5 +1,5 @@
 import os
 
-def IsWindows():
+def is_windows():
   return os.name == 'nt'
   
