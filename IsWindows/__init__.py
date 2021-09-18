@@ -1,2 +1,2 @@
-from iswindows.IsWindows import is_windows
+from IsWindows.IsWindows import is_windows
 
